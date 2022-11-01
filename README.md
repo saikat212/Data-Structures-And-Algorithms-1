@@ -1,4 +1,4 @@
-# Data-Structures-And-Algorithms-1
+# Data Structures and Algorithms I Sessional ( CSE204 )
 # Navigation
 - Assignment 1 : Comparison of Linear and Binary search
 - Assignment 2 : Graph 
